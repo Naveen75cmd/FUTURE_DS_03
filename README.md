@@ -33,22 +33,16 @@ Shows how each area was rated by students.
 👉 Strengths: Concept Clarity, Subject Knowledge  
 👉 Weaknesses: Assignment Difficulty, Presentations  
 
-![Average Ratings](Charts/Average rating per question.png)
-
 ---
 
 ### 2. Distribution of Overall Scores
 Histogram of average scores (1–5 scale) per student.  
 Most students rated between **3.5 – 4.5**, showing overall satisfaction.  
 
-![Overall Score Distribution](Charts/Distribution of overall scores.png)
-
 ---
 
 ### 3. Rating Spread per Question
 Boxplots help visualize rating spread and outliers across all categories.  
-![Boxplot Ratings](Charts/Distribution of ratings per Question.png)
-
 
 ---
 
@@ -56,7 +50,6 @@ Boxplots help visualize rating spread and outliers across all categories.
 Highlights relationships between feedback categories.  
 👉 Strong correlation found between **Concept Clarity** & **Doubt Solving**.  
 
-![Correlation Heatmap](Charts/Correlation Between Rating Categories.png)
 
 ---
 
@@ -66,8 +59,6 @@ Converted average ratings into sentiment labels.
 - Positive: 72%  
 - Neutral: 20%  
 - Negative: 8%  
-
-![Sentiment Pie](Charts/Overall sentiment distribution.png)
 
 ---
 
